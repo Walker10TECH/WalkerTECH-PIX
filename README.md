@@ -37,17 +37,10 @@ Para executar o serviço, siga estes passos:
 1. No terminal, navegue até o diretório do projeto.
 2. Execute o comando para iniciar o serviço: `mvn quarkus:dev` ou outra forma de execução.
 
-## Colaboração
-
-- Para contribuir, abra uma issue ou crie um pull request.
-- Mantenha o código limpo e siga as diretrizes do projeto.
-- Se precisar de ajuda, não hesite em entrar em contato.
-
 ## Autor
 
-[Seu Nome](link-do-seu-site-ou-rede-social)
+[Willyan Walker](link-do-seu-site-ou-rede-social)
 
 ## Licença
 
-Este projeto está sob a [licença XYZ](link-da-licenca).
 
